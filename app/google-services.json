@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "522546881722",
+    "firebase_url": "https://realtimechat-d4d8b.firebaseio.com",
+    "project_id": "realtimechat-d4d8b",
+    "storage_bucket": "realtimechat-d4d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522546881722:android:7cdeed262b0cd6e9ea0e83",
+        "android_client_info": {
+          "package_name": "com.azerenterprise.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522546881722-b5jj74ll676e1andhc5qpjhcmbsq72em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsmvam6LKNUHK2cw_BINawTtqsS8NYu5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522546881722-b5jj74ll676e1andhc5qpjhcmbsq72em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522546881722:android:d95e71361300c24dea0e83",
+        "android_client_info": {
+          "package_name": "com.azerenterprise.reza.RealtimeChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522546881722-r8jqf2e89fg76081eu8gmg9o1jriel1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azerenterprise.reza.RealtimeChat",
+            "certificate_hash": "ca387ff1228a7be49a6a90961bca31bc9f76d7ff"
+          }
+        },
+        {
+          "client_id": "522546881722-b5jj74ll676e1andhc5qpjhcmbsq72em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsmvam6LKNUHK2cw_BINawTtqsS8NYu5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522546881722-b5jj74ll676e1andhc5qpjhcmbsq72em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
